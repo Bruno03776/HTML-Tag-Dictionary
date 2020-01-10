@@ -1,0 +1,13 @@
+<a>link
+<ul>:unordered list
+<ol>:ordered list
+<hl>:header
+
+attributes:none
+<h2>header 
+
+<img image
+<p> make the letter bigger
+<li>is a point on each line
+ src> img is a image and to let theb other software open it
+href a website to paste on it 
